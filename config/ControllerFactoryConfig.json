@@ -1,0 +1,14 @@
+{
+  "mappings": [
+    {
+      "domain": "exampleDomain",
+      "command": "exampleCommand",
+      "assemblyPath": "./exampleDomainController.so"
+    },
+    {
+      "domain": "anotherDomain",
+      "command": "anotherCommand",
+      "assemblyPath": "./anotherDomainController.so"
+    }
+  ]
+}
